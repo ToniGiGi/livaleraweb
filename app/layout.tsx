@@ -35,6 +35,10 @@ export const metadata: Metadata = {
     'trailer',
     'flete',
   ],
+  icons: {
+    icon: '/logolivalera.PNG',
+    apple: '/logolivalera.PNG',
+  },
 }
 
 export const viewport: Viewport = {
